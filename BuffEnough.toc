@@ -1,4 +1,4 @@
-## Interface: 30400
+## Interface: 100002
 ## Title: BuffEnough
 ## Notes: Personal buff monitor - are you buff enough?
 ## Author: Nikkodemus
